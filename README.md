@@ -63,12 +63,6 @@ To run this project, you will need to add the following environment variables to
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/ansonbenny/ChatGPT.git
-```
-
 ##To Start BackEnd
 
 Go to the server directory
